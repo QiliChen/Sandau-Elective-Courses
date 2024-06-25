@@ -8,5 +8,6 @@
 希望您能享受方便快捷的选课体验！如果有任何问题，请随时联系我们。祝您选课顺利！ 🌟
 
 -Github开源地址 https://github.com/QiliChen/Sandau-Elective-Courses
+-Greasyfork油猴地址 https://greasyfork.org/zh-CN/scripts/483278-sandau-选课小助手
 
 ![alt text](src/img/image.png)
